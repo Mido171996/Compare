@@ -1,0 +1,7 @@
+C:\Users\moham\source\repos\CompareWithThreeNum\CompareWithThreeNum\bin\Debug\CompareWithThreeNum.exe.config
+C:\Users\moham\source\repos\CompareWithThreeNum\CompareWithThreeNum\bin\Debug\CompareWithThreeNum.exe
+C:\Users\moham\source\repos\CompareWithThreeNum\CompareWithThreeNum\bin\Debug\CompareWithThreeNum.pdb
+C:\Users\moham\source\repos\CompareWithThreeNum\CompareWithThreeNum\obj\Debug\CompareWithThreeNum.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\CompareWithThreeNum\CompareWithThreeNum\obj\Debug\CompareWithThreeNum.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\CompareWithThreeNum\CompareWithThreeNum\obj\Debug\CompareWithThreeNum.exe
+C:\Users\moham\source\repos\CompareWithThreeNum\CompareWithThreeNum\obj\Debug\CompareWithThreeNum.pdb
